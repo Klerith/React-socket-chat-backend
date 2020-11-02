@@ -27,6 +27,7 @@ class Sockets {
 
             // TODO: Disconnect
             // Marcar en la BD que el usuario se desconecto
+            // TODO: Emitir todos los usuarios conectados
 
             
         
